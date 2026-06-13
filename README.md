@@ -22,6 +22,6 @@
 <li>minimize memory consumption</li>
 <li>Orginize code properly</li>
 <li>Funtion prototype?</li></ol>
-<hr>
+<hr></body>
 </h3>Refrence: </h3>
 <a href="https://www.geeksforgeeks.org/dsa/a-search-algorithm"> For more About (A* algorithm) Click here.</a>
