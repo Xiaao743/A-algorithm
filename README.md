@@ -14,10 +14,10 @@
 <ul>
 <li>To understand how algorithms works</li>
 <li>understand c++ basics</li>
-<li>keep making this code better everyday<li></ul>
+<li>keep making this code better everyday</li></ul>
 <br>
 <h3>Improvments:</h3>
-<ol style=list-style-type:upper-roman>
+<ol style=list-style-type:lower-roman>
 <li>Algo crashes on complex problem</li>
 <li>minimize memory consumption</li>
 <li>Orginize code properly</li>
