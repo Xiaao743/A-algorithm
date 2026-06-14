@@ -24,4 +24,8 @@
 <li>Funtion prototype?</li></ol>
 <hr></body>
 </h3>Refrence: </h3>
+<<<<<<< HEAD
 <a target="_blank" href="https://www.geeksforgeeks.org/dsa/a-search-algorithm"> For more About (A* algorithm) Click here.</a>
+=======
+<a href="https://www.geeksforgeeks.org/dsa/a-search-algorithm"> For more About (A* algorithm) Click here.</a>
+>>>>>>> f51592fb23cd33b01db2fd52a2be79d8f0aed791
